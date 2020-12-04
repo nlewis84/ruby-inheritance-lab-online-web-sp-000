@@ -24,4 +24,5 @@ steve2.learn(some_knowledge)
 steve.learn(some_knowledge)
 steve2.learn(some_knowledge)
 
-puts "Steve just learned this important knowledge: '#{steve.knowledge}' from Avi"
+puts "Steve Jobs just learned this important knowledge: '#{steve.knowledge}' from Avi"
+puts "Steve Wozniak just learned this important knowledge: '#{steve2.knowledge}' from Avi"
