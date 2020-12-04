@@ -8,6 +8,10 @@ steve = Student.new
 steve.first_name = "Steve"
 steve.last_name = "Jobs"
 
+steve2 = Student.new
+steve2.first_name = "Steve"
+steve2.last_name = "Woz"
+
 avi = Teacher.new
 avi.first_name = "Avi"
 avi.last_name = "Flombaum"
