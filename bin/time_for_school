@@ -10,7 +10,7 @@ steve.last_name = "Jobs"
 
 steve2 = Student.new
 steve2.first_name = "Steve"
-steve2.last_name = "Woz"
+steve2.last_name = "Wozniak"
 
 avi = Teacher.new
 avi.first_name = "Avi"
